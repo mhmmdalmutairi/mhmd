@@ -2,7 +2,7 @@ name: نشر الموقع على GitHub Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["claude/personal-portfolio-site-okK6Q"]
   workflow_dispatch:
 
 permissions:
